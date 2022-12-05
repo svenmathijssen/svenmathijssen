@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svenmathijssen
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on useful projects
 - 📫 How to reach me svenmathijssen@tutanota.com
 
